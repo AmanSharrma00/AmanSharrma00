@@ -1,27 +1,100 @@
-# 💫 About Me:
-### 👋 Hii , It's Aman Sharma <br><br><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(MERN);Building+Sahayak+%2B+Campus+Swap;DSA+%26+Java+in+Progress;Cricket+Captain+off+the+keyboard+%F0%9F%8F%8F" alt="Typing SVG" /><br><br>- 🎓 B.E. Computer Science student @ Chandigarh University — Batch 2027<br>- 💻 Full Stack Developer focused on the **MERN stack**<br>- 🚀 Building **Sahayak** (JWT-secured marketplace) & **Campus Swap** (role-based campus marketplace)<br>- 🌱 Also into IoT + CV — **Smart AgroCare** (YOLOv8, ESP32, Arduino)<br>- 🎯 Currently prepping DSA + Java for placement season<br>- 🏏 Captain of my college cricket team — I lead on the field and in the codebase<br>- 📫 Reach me at: **amansharmaasr00@gmail.com**<br>- ⚡ Fun fact: I debug better after a good net session<br><br><details><br><summary>🛠️ Tech I've been shipping with</summary><br><br><br><br>React · Node.js · Express · MongoDB · JWT · Firebase · Render<br><br></details><br><br><details><br><summary>📊 What I'm grinding on right now</summary><br><br><br><br>Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundamentals<br><br></details>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9F2EF7&height=220&section=header&text=Hii,%20I'm%20Aman%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Cricket%20Captain&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@anshu.sharrma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amansharrma00/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32939857/aman-sharma) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@scigearhub) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amansharmaasr00@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Building+Sahayak+%2B+Campus+Swap;DSA+%26+Java+in+Progress;Cricket+Captain+off+the+keyboard+%F0%9F%8F%8F" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AmanSharrma00&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="80"/>
+
+</div>
+
+# 💫 About Me
+
+- 🎓 B.E. Computer Science student @ Chandigarh University — Batch 2027
+- 💻 Full Stack Developer focused on the **MERN stack**
+- 🚀 Building **Sahayak** (JWT-secured marketplace) & **Campus Swap** (role-based campus marketplace)
+- 🌱 Also into IoT + CV — **Smart AgroCare** (YOLOv8, ESP32, Arduino)
+- 🎯 Currently prepping DSA + Java for placement season
+- 🏏 Captain of my college cricket team — I lead on the field and in the codebase
+- 📫 Reach me at: **amansharmaasr00@gmail.com**
+- ⚡ Fun fact: I debug better after a good net session
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<details>
+<summary>🛠️ Tech I've been shipping with</summary>
+<br>
+
+React · Node.js · Express · MongoDB · JWT · Firebase · Render
+
+</details>
+
+<details>
+<summary>📊 What I'm grinding on right now</summary>
+<br>
+
+Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundamentals
+
+</details>
+
+## 🌐 Socials
+
+<p align="center">
+<a href="https://instagram.com/@anshu.sharrma"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amansharrma00/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/32939857/aman-sharma"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+<a href="https://youtube.com/@scigearhub"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+<a href="mailto:amansharmaasr00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,aws,firebase,vercel,dotnet,angular,nextjs,vite,react,mongodb,mysql,figma,git,github,docker" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=AmanSharrma00&theme=radical&hide_border=false" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmanSharrma00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AmanSharrma00&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmanSharrma00&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=AmanSharrma00&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+<div align="center">
+
 [![](https://komarev.com/ghpvc/?username=AmanSharrma00&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F2EF7,100:2E9EF7&height=120&section=footer" width="100%"/>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
