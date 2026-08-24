@@ -4,21 +4,26 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Building+Sahayak+%2B+Campus+Swap;DSA+%26+Java+in+Progress;Cricket+Captain+off+the+keyboard+%F0%9F%8F%8F" alt="Typing SVG" />
 
+<br>
+
+<img src="./assets/aman-solo-leveling-avatar.gif" width="320" alt="Aman Sharma - Anime Developer Avatar"/>
+
+<br>
+
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="80"/>
 
 </div>
 
 # 💫 About Me
 
-- 🎓 B.E. Computer Science student @ Chandigarh University — Batch 2027
-- 💻 Full Stack Developer focused on the **MERN stack**
-- 🚀 Building **Sahayak** (JWT-secured marketplace) & **Campus Swap** (role-based campus marketplace)
-- 🌱 Also into IoT + CV — **Smart AgroCare** (YOLOv8, ESP32, Arduino)
-- 🎯 Currently prepping DSA + Java for placement season
-- 🏏 Captain of my college cricket team — I lead on the field and in the codebase
-- 📫 Reach me at: **amansharmaasr00@gmail.com**
-- ⚡ Fun fact: I debug better after a good net session
+* 🎓 B.E. Computer Science student @ Chandigarh University — Batch 2027
+* 💻 Full Stack Developer focused on the **MERN stack**
+* 🚀 Building **Sahayak** (JWT-secured marketplace) & **Campus Swap** (role-based campus marketplace)
+* 🌱 Also into IoT + CV — **Smart AgroCare** (YOLOv8, ESP32, Arduino)
+* 🎯 Currently prepping DSA + Java for placement season
+* 🏏 Captain of my college cricket team — I lead on the field and in the codebase
+* 📫 Reach me at: **[amansharmaasr00@gmail.com](mailto:amansharmaasr00@gmail.com)**
+* ⚡ Fun fact: I debug better after a good net session
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -54,7 +59,7 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,aws,firebase,vercel,dotnet,angular,nextjs,vite,react,mongodb,mysql,figma,git,github,docker" />
 </p>
 
-## 📈 Language Usage (real data, by code volume)
+## 📈 Language Usage
 
 <p align="center">
 <img src="https://progress-bar.xyz/83/?title=JavaScript&width=250&color=F0DB4F" /><br/>
@@ -63,16 +68,18 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 <img src="https://progress-bar.xyz/1/?title=HTML%20%2F%20CSS&width=250&color=E34F26" />
 </p>
 
-<sub>Computed from public repo sizes — updates whenever you push more code, so it stays honest as your Java/DSA work grows.</sub>
+<sub>Computed from public repo sizes — updates as your codebase grows.</sub>
 
 ## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
+
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=AmanSharrma00&theme=radical&hide_border=false" />
 </p>
+
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
@@ -109,9 +116,9 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=AmanSharrma00&label=Profile%20Views&color=2E9EF7&style=flat)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=AmanSharrma00\&label=Profile%20Views\&color=2E9EF7\&style=flat)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F2EF7,100:2E9EF7&height=120&section=footer" width="100%"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
+::: ​​
