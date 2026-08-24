@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./assets/aman-solo-leveling-avatar.gif" width="320" alt="Aman Sharma - Anime Developer Avatar"/>
+<img src="./aman-solo-leveling-avatar(1).gif" width="320" alt="Aman Sharma - Anime Developer Avatar"/>
 
 <br>
 
@@ -121,4 +121,3 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F2EF7,100:2E9EF7&height=120&section=footer" width="100%"/>
 
 </div>
-::: ​​
