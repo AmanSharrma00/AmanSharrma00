@@ -54,6 +54,17 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,aws,firebase,vercel,dotnet,angular,nextjs,vite,react,mongodb,mysql,figma,git,github,docker" />
 </p>
 
+## 📈 Language Usage (real data, by code volume)
+
+<p align="center">
+<img src="https://progress-bar.xyz/83/?title=JavaScript&width=250&color=F0DB4F" /><br/>
+<img src="https://progress-bar.xyz/15/?title=TypeScript&width=250&color=3178C6" /><br/>
+<img src="https://progress-bar.xyz/1/?title=Java%20(DSA%20prep%20started%20Aug%202026)&width=250&color=E76F00" /><br/>
+<img src="https://progress-bar.xyz/1/?title=HTML%20%2F%20CSS&width=250&color=E34F26" />
+</p>
+
+<sub>Computed from public repo sizes — updates whenever you push more code, so it stays honest as your Java/DSA work grows.</sub>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -64,6 +75,12 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 </p>
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+## ⚡ Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSharrma00&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -92,7 +109,7 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=AmanSharrma00&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=AmanSharrma00&label=Profile%20Views&color=2E9EF7&style=flat)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F2EF7,100:2E9EF7&height=120&section=footer" width="100%"/>
 
