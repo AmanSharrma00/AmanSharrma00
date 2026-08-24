@@ -2,28 +2,31 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9F2EF7&height=220&section=header&text=Hii,%20I'm%20Aman%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Cricket%20Captain&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Building+Sahayak+%2B+Campus+Swap;DSA+%26+Java+in+Progress;Cricket+Captain+off+the+keyboard+%F0%9F%8F%8F" alt="Typing SVG" />
-
-<br>
-
-<img src="./aman-solo-leveling-avatar(1).gif" width="320" alt="Aman Sharma - Anime Developer Avatar"/>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>
+<p align="center">
+  <img src="./aman-professional-animated-readme-banner.gif"
+       width="100%"
+       alt="Aman Sharma - Full Stack Developer"/>
+</p>
 
 </div>
 
-# 💫 About Me
+💫 About Me
 
-* 🎓 B.E. Computer Science student @ Chandigarh University — Batch 2027
-* 💻 Full Stack Developer focused on the **MERN stack**
-* 🚀 Building **Sahayak** (JWT-secured marketplace) & **Campus Swap** (role-based campus marketplace)
-* 🌱 Also into IoT + CV — **Smart AgroCare** (YOLOv8, ESP32, Arduino)
-* 🎯 Currently prepping DSA + Java for placement season
-* 🏏 Captain of my college cricket team — I lead on the field and in the codebase
-* 📫 Reach me at: **[amansharmaasr00@gmail.com](mailto:amansharmaasr00@gmail.com)**
-* ⚡ Fun fact: I debug better after a good net session
+🎓 B.E. Computer Science student @ Chandigarh University — Batch 2027
+
+💻 Full Stack Developer focused on the MERN stack
+
+🚀 Building Sahayak (JWT-secured marketplace) & Campus Swap (role-based campus marketplace)
+
+🌱 Also into IoT + CV — Smart AgroCare (YOLOv8, ESP32, Arduino)
+
+🎯 Currently prepping DSA + Java for placement season
+
+🏏 Captain of my college cricket team — I lead on the field and in the codebase
+
+📫 Reach me at: amansharmaasr00@gmail.com
+
+⚡ Fun fact: I debug better after a good net session
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -43,7 +46,7 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 </details>
 
-## 🌐 Socials
+🌐 Socials
 
 <p align="center">
 <a href="https://instagram.com/@anshu.sharrma"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
@@ -53,13 +56,13 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 <a href="mailto:amansharmaasr00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
-## 💻 Tech Stack
+💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,aws,firebase,vercel,dotnet,angular,nextjs,vite,react,mongodb,mysql,figma,git,github,docker" />
 </p>
 
-## 📈 Language Usage
+📈 Language Usage
 
 <p align="center">
 <img src="https://progress-bar.xyz/83/?title=JavaScript&width=250&color=F0DB4F" /><br/>
@@ -70,7 +73,7 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 <sub>Computed from public repo sizes — updates as your codebase grows.</sub>
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
@@ -84,31 +87,31 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-## ⚡ Activity Graph
+⚡ Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSharrma00&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=AmanSharrma00&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-### ✍️ Random Dev Quote
+✍️ Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-### 🔝 Top Contributed Repo
+🔝 Top Contributed Repo
 
 <p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=AmanSharrma00&limit=5&theme=dark&combine_all_yearly_contributions=true" />
@@ -116,7 +119,7 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=AmanSharrma00\&label=Profile%20Views\&color=2E9EF7\&style=flat)](https://visitcount.itsvg.in)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F2EF7,100:2E9EF7&height=120&section=footer" width="100%"/>
 
