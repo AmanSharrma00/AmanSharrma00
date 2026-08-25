@@ -2,11 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9F2EF7&height=220&section=header&text=Hii,%20I'm%20Aman%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Cricket%20Captain&descAlignY=55&descSize=18" width="100%"/>
 
+<!-- Particle / floating-dust effect banner (custom SVG, lives in ./readme-assets/particle-banner.svg) -->
+<img src="./readme-assets/particle-banner.svg" width="100%" alt="particle effect banner"/>
+
 <p align="center">
 <img src="./aman-professional-animated-readme-banner%20(1).gif"
        width="100%"
        alt="Aman Sharma - Full Stack Developer"/>
 </p>
+
+<!-- Profile views counter (Komarev) — replaces the broken/missing visits badge -->
+<img src="https://komarev.com/ghpvc/?username=AmanSharrma00&label=Profile%20Views&color=9F2EF7&style=flat" alt="Profile views"/>
 
 </div>
 
@@ -79,8 +85,11 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 <img src="https://github-readme-stats.shion.dev/api?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
+🔥 Streak Stats
+
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=AmanSharrma00&theme=radical&hide_border=false" />
+<!-- Custom glow-frame wrapper (./readme-assets/streak-glow-frame.svg) around the live streak-stats badge -->
+<img src="./readme-assets/streak-glow-frame.svg" alt="GitHub streak stats with animated glow frame" />
 </p>
 
 <p align="center">
