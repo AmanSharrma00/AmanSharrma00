@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9F2EF7&height=220&section=header&text=Hii,%20I'm%20Aman%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Cricket%20Captain&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
-<img src="./aman-professional-animated-readme-banner%20(1).gif"
+  <img src="./aman-professional-animated-readme-banner.gif"
        width="100%"
        alt="Aman Sharma - Full Stack Developer"/>
 </p>
@@ -118,3 +118,9 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 </p>
 
 <div align="center">
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F2EF7,100:2E9EF7&height=120&section=footer" width="100%"/>
+
+</div>
