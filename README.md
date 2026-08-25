@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9F2EF7&height=220&section=header&text=Hii,%20I'm%20Aman%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Cricket%20Captain&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Particle / floating-dust effect banner (custom SVG, lives in ./readme-assets/particle-banner.svg) -->
-<img src="./particle-banner.svg" width="100%" alt="particle effect banner"/>
-
 <p align="center">
 <img src="./aman-professional-animated-readme-banner%20(1).gif"
        width="100%"
@@ -88,8 +85,7 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 🔥 Streak Stats
 
 <p align="center">
-<!-- Custom glow-frame wrapper (./readme-assets/streak-glow-frame.svg) around the live streak-stats badge -->
-<img src="./streak-glow-frame.svg" alt="GitHub streak stats with animated glow frame" />
+<img src="https://streak-stats.demolab.com/?user=AmanSharrma00&theme=radical&hide_border=true&background=0D1117" alt="GitHub streak stats"/>
 </p>
 
 <p align="center">
@@ -98,15 +94,24 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 ⚡ Activity Graph
 
+<!-- Temporarily disabled: github-readme-activity-graph.vercel.app is currently returning
+     402 Payment Required (their free hosting is down, not a README issue).
+     Re-enable this once the service is back up:
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSharrma00&theme=react-dark&hide_border=true&area=true" />
 </p>
+-->
 
 🏆 GitHub Trophies
 
+<!-- Temporarily disabled: github-profile-trophy.vercel.app is currently returning
+     402 Payment Required (their free hosting is down, not a README issue).
+     Re-enable this once the service is back up:
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=AmanSharrma00&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
+-->
+
 
 🐍 Contribution Snake
 
