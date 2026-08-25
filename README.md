@@ -4,13 +4,15 @@
 
 <p align="center">
 <img src="./aman-professional-animated-readme-banner%20(1).gif"
-       width="100%"
-       alt="Aman Sharma - Full Stack Developer"/>
+     width="100%"
+     alt="Aman Sharma - Full Stack Developer"/>
 </p>
 
 </div>
 
-💫 About Me
+---
+
+## 💫 About Me
 
 🎓 B.E. Computer Science student @ Chandigarh University — Batch 2027
 
@@ -24,14 +26,17 @@
 
 🏏 Captain of my college cricket team — I lead on the field and in the codebase
 
-📫 Reach me at: amansharmaasr00@gmail.com
+📫 Reach me at: **amansharmaasr00@gmail.com**
 
 ⚡ Fun fact: I debug better after a good net session
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+---
+
 <details>
 <summary>🛠️ Tech I've been shipping with</summary>
+
 <br>
 
 React · Node.js · Express · MongoDB · JWT · Firebase · Render
@@ -40,86 +45,152 @@ React · Node.js · Express · MongoDB · JWT · Firebase · Render
 
 <details>
 <summary>📊 What I'm grinding on right now</summary>
+
 <br>
 
 Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundamentals
 
 </details>
 
-🌐 Socials
+---
+
+## 🌐 Socials
 
 <p align="center">
-<a href="https://instagram.com/@anshu.sharrma"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amansharrma00/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/32939857/aman-sharma"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
-<a href="https://youtube.com/@scigearhub"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
-<a href="mailto:amansharmaasr00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+
+<a href="https://instagram.com/anshu.sharrma">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amansharrma00/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/32939857/aman-sharma">
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@scigearhub">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
+</a>
+
+<a href="mailto:amansharmaasr00@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
-💻 Tech Stack
+---
+
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,aws,firebase,vercel,dotnet,angular,nextjs,vite,react,mongodb,mysql,figma,git,github,docker" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,aws,firebase,vercel,dotnet,angular,nextjs,vite,react,mongodb,mysql,figma,git,github,docker"/>
+
 </p>
 
-📈 Language Usage
+---
+
+## 📈 Language Usage
 
 <p align="center">
-<img src="https://progress-bar.xyz/83/?title=JavaScript&width=250&color=F0DB4F" /><br/>
-<img src="https://progress-bar.xyz/15/?title=TypeScript&width=250&color=3178C6" /><br/>
-<img src="https://progress-bar.xyz/1/?title=Java%20(DSA%20prep%20started%20Aug%202026)&width=250&color=E76F00" /><br/>
-<img src="https://progress-bar.xyz/1/?title=HTML%20%2F%20CSS&width=250&color=E34F26" />
+
+<img src="https://progress-bar.xyz/83/?title=JavaScript&width=250&color=F0DB4F"/><br/>
+
+<img src="https://progress-bar.xyz/15/?title=TypeScript&width=250&color=3178C6"/><br/>
+
+<img src="https://progress-bar.xyz/1/?title=Java%20(DSA%20prep%20started%20Aug%202026)&width=250&color=E76F00"/><br/>
+
+<img src="https://progress-bar.xyz/1/?title=HTML%20%2F%20CSS&width=250&color=E34F26"/>
+
 </p>
 
 <sub>Computed from public repo sizes — updates as your codebase grows.</sub>
 
-📊 GitHub Stats
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+
+<img src="https://github-readme-stats.shion.dev/api?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=AmanSharrma00&theme=radical&hide_border=false" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
 </p>
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+<img src="./assets/contributions.dark.svg" width="100%" alt="GitHub Contribution Streak"/>
+
 </p>
 
-⚡ Activity Graph
+---
+
+# ⚡ Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSharrma00&theme=react-dark&hide_border=true&area=true" />
+
+<img src="./assets/activity-graph.svg" width="100%" alt="GitHub Activity Graph"/>
+
 </p>
 
-🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmanSharrma00&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+
+<img src="./assets/trophy.svg" width="100%" alt="GitHub Trophies"/>
+
 </p>
 
-🐍 Contribution Snake
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="./github-snake.svg" width="100%">
+</picture>
+
 </p>
 
-✍️ Random Dev Quote
+---
+
+# ✍️ Random Dev Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
 </p>
 
-🔝 Top Contributed Repo
+---
+
+## 👀 Profile Views
 
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=AmanSharrma00&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+<img src="https://komarev.com/ghpvc/?username=AmanSharrma00&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </p>
+
+---
 
 <div align="center">
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F2EF7,100:2E9EF7&height=120&section=footer" width="100%"/>
 
