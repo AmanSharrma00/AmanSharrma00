@@ -8,6 +8,10 @@
      alt="Aman Sharma - Full Stack Developer"/>
 </p>
 
+<p>
+<img src="https://komarev.com/ghpvc/?username=AmanSharrma00&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 </div>
 
 ---
@@ -18,15 +22,15 @@
 
 💻 Full Stack Developer focused on the MERN stack
 
-🚀 Building Sahayak (JWT-secured marketplace) & Campus Swap (role-based campus marketplace)
+🚀 Building **Sahayak** — JWT-secured marketplace & **Campus Swap** — role-based campus marketplace
 
-🌱 Also into IoT + CV — Smart AgroCare (YOLOv8, ESP32, Arduino)
+🌱 Exploring **IoT + Computer Vision** with Smart AgroCare using YOLOv8, ESP32 & Arduino
 
-🎯 Currently prepping DSA + Java for placement season
+🎯 Currently preparing **DSA + Java** for placement season
 
 🏏 Captain of my college cricket team — I lead on the field and in the codebase
 
-📫 Reach me at: **amansharmaasr00@gmail.com**
+📫 Reach me at: **[amansharmaasr00@gmail.com](mailto:amansharmaasr00@gmail.com)**
 
 ⚡ Fun fact: I debug better after a good net session
 
@@ -35,20 +39,36 @@
 ---
 
 <details>
-<summary>🛠️ Tech I've been shipping with</summary>
+<summary>🛠️ Tech I've Been Shipping With</summary>
 
 <br>
 
-React · Node.js · Express · MongoDB · JWT · Firebase · Render
+**Frontend:** React · HTML · CSS · JavaScript · Angular · Next.js
+
+**Backend:** Node.js · Express.js · Java
+
+**Database:** MongoDB · MySQL
+
+**Cloud & Tools:** Firebase · AWS · Vercel · Render · Docker
+
+**Languages:** JavaScript · TypeScript · Java · Python
+
+**Other:** Git · GitHub · Figma · JWT · REST APIs
 
 </details>
 
 <details>
-<summary>📊 What I'm grinding on right now</summary>
+<summary>📊 What I'm Grinding On Right Now</summary>
 
 <br>
 
-Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundamentals
+Placement preparation for **Full Stack / Software Engineering roles**
+
+* Data Structures & Algorithms
+* Java
+* Problem Solving
+* Backend Development
+* System Design Fundamentals
 
 </details>
 
@@ -58,24 +78,24 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 <p align="center">
 
-<a href="https://instagram.com/anshu.sharrma">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/anshu.sharrma">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/amansharrma00/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://stackoverflow.com/users/32939857/aman-sharma">
-<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
 </a>
 
 <a href="https://youtube.com/@scigearhub">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
 </a>
 
 <a href="mailto:amansharmaasr00@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </a>
 
 </p>
@@ -86,7 +106,7 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,aws,firebase,vercel,dotnet,angular,nextjs,vite,react,mongodb,mysql,figma,git,github,docker"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,react,nodejs,express,nextjs,angular,mongodb,mysql,firebase,aws,vercel,docker,git,github,figma" />
 
 </p>
 
@@ -96,101 +116,117 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 <p align="center">
 
-<img src="https://progress-bar.xyz/83/?title=JavaScript&width=250&color=F0DB4F"/><br/>
+<img src="https://progress-bar.xyz/83/?title=JavaScript&width=250&color=F0DB4F" />
 
-<img src="https://progress-bar.xyz/15/?title=TypeScript&width=250&color=3178C6"/><br/>
+<br/>
 
-<img src="https://progress-bar.xyz/1/?title=Java%20(DSA%20prep%20started%20Aug%202026)&width=250&color=E76F00"/><br/>
+<img src="https://progress-bar.xyz/15/?title=TypeScript&width=250&color=3178C6" />
 
-<img src="https://progress-bar.xyz/1/?title=HTML%20%2F%20CSS&width=250&color=E34F26"/>
+<br/>
+
+<img src="https://progress-bar.xyz/1/?title=Java%20%28DSA%20prep%29&width=250&color=E76F00" />
+
+<br/>
+
+<img src="https://progress-bar.xyz/1/?title=HTML%20%2F%20CSS&width=250&color=E34F26" />
 
 </p>
 
-<sub>Computed from public repo sizes — updates as your codebase grows.</sub>
+<sub>Approximate distribution based on current public repositories.</sub>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="180"
+  src="https://github-readme-stats.vercel.app/api?username=AmanSharrma00&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="./assets/contributions.dark.svg" width="100%" alt="GitHub Contribution Streak"/>
+<img height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSharrma00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 </p>
 
 ---
 
-# ⚡ Activity Graph
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="./assets/activity-graph.svg" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://streak-stats.demolab.com/?user=AmanSharrma00&theme=radical&hide_border=false"
+  alt="GitHub Streak"
+  width="495"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## ⚡ Activity Graph
 
 <p align="center">
 
-<img src="./assets/trophy.svg" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSharrma00&theme=react-dark&hide_border=true&area=true"
+  alt="GitHub Activity Graph"
+  width="100%"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="./github-snake.svg" width="100%">
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=AmanSharrma00&theme=radical&no-frame=true&no-bg=true&margin-w=4"
+  alt="GitHub Trophies"/>
 
 </p>
 
 ---
 
-# ✍️ Random Dev Quote
+## 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://raw.githubusercontent.com/AmanSharrma00/AmanSharrma00/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"/>
 
 </p>
 
 ---
 
-## 👀 Profile Views
+## ✍️ Random Dev Quote
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AmanSharrma00&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+  alt="Random Dev Quote"/>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/AmanSharrma00">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanSharrma00&repo=Sahayak&theme=radical&hide_border=false"/>
+</a>
+
+<a href="https://github.com/AmanSharrma00">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanSharrma00&repo=Campus-Swap&theme=radical&hide_border=false"/>
+</a>
 
 </p>
 
 ---
 
 <div align="center">
+
+### 🚀 Build • Innovate • Automate
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F2EF7,100:2E9EF7&height=120&section=footer" width="100%"/>
 
