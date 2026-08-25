@@ -84,8 +84,10 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 🔥 Streak Stats
 
+🔥 Streak Stats
+
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=AmanSharrma00&theme=radical&hide_border=true&background=0D1117" alt="GitHub streak stats"/>
+<img src="https://streak-stats.demolab.com?user=AmanSharrma00&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
