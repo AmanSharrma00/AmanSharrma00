@@ -84,8 +84,6 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 🔥 Streak Stats
 
-🔥 Streak Stats
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AmanSharrma00&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
@@ -96,13 +94,9 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 ⚡ Activity Graph
 
-<!-- Temporarily disabled: github-readme-activity-graph.vercel.app is currently returning
-     402 Payment Required (their free hosting is down, not a README issue).
-     Re-enable this once the service is back up:
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSharrma00&theme=react-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSharrma00&theme=react-dark&hide_border=true&area=true&custom_title=Aman's%20Contribution%20Graph" width="95%" alt="Aman's GitHub Activity Graph"/>
 </p>
--->
 
 🏆 GitHub Trophies
 
