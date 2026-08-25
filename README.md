@@ -100,14 +100,9 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 🏆 GitHub Trophies
 
-<!-- Temporarily disabled: github-profile-trophy.vercel.app is currently returning
-     402 Payment Required (their free hosting is down, not a README issue).
-     Re-enable this once the service is back up:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmanSharrma00&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=AmanSharrma00&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="95%" alt="GitHub Trophies"/>
 </p>
--->
-
 
 🐍 Contribution Snake
 
@@ -124,7 +119,7 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 🔝 Top Contributed Repo
 
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=AmanSharrma00&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=AmanSharrma00&limit=5&theme=radical&combine_all_yearly_contributions=true" width="95%" alt="Top Contributed Repositories"/>
 </p>
 
 <div align="center">
