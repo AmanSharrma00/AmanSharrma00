@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9F2EF7&height=220&section=header&text=Hii,%20I'm%20Aman%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Cricket%20Captain&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Particle / floating-dust effect banner (custom SVG, lives in ./readme-assets/particle-banner.svg) -->
-<img src="./readme-assets/particle-banner.svg" width="100%" alt="particle effect banner"/>
+<img src="./particle-banner.svg" width="100%" alt="particle effect banner"/>
 
 <p align="center">
 <img src="./aman-professional-animated-readme-banner%20(1).gif"
@@ -89,7 +89,7 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 
 <p align="center">
 <!-- Custom glow-frame wrapper (./readme-assets/streak-glow-frame.svg) around the live streak-stats badge -->
-<img src="./readme-assets/streak-glow-frame.svg" alt="GitHub streak stats with animated glow frame" />
+<img src="./streak-glow-frame.svg" alt="GitHub streak stats with animated glow frame" />
 </p>
 
 <p align="center">
