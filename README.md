@@ -95,7 +95,7 @@ Placement prep (Full Stack / SWE roles) — DSA, Java, and system design fundame
 ⚡ Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSharrma00&theme=react-dark&hide_border=true&area=true&custom_title=Aman's%20Contribution%20Graph" width="95%" alt="Aman's GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph-wheat-two.vercel.app/graph?username=AmanSharrma00&theme=react-dark&hide_border=true&area=true&custom_title=Aman's%20Contribution%20Graph" width="95%" alt="Aman's GitHub Activity Graph"/>
 </p>
 
 🏆 GitHub Trophies
